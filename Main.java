@@ -14,7 +14,6 @@ public class Main extends JFrame implements ActionListener {
     private JList<String> daftarTugas;
     private JLabel labelStatus;
 
-    // Palet warna tema bersih & berwarna
     private final Color WARNA_BG = new Color(244, 246, 250);
     private final Color WARNA_PUTIH = Color.WHITE;
     private final Color WARNA_TEKS = new Color(30, 41, 59);
